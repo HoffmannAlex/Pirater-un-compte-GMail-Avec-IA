@@ -1,0 +1,68 @@
+aiohttp==3.8.6
+requests==2.31.0
+cryptography==42.0.5
+stem==1.8.2
+psutil==5.9.8
+asyncio==3.4.3
+aiofiles==23.2.1
+python-dotenv==1.0.1
+google-auth==2.25.2
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.1
+google-api-python-client==2.108.0
+markovify==0.9.4
+numpy==1.24.3
+
+# Configuration
+.env
+
+# Logs
+logs/
+*.log
+
+# Results
+results.txt
+security_results.txt
+valid_proxies.txt
+
+# Environment
+*.env
+__pycache__/
+*.pyc
+.DS_Store
+
+# Configuration
+config.json
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
