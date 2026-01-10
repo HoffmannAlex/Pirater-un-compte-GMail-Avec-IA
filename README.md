@@ -11,7 +11,7 @@
 **Ce dépôt est fourni uniquement à des fins d’APPRENTISSAGE, DE RECHERCHE et d’AUDITS DE SÉCURITÉ AUTORISÉS.**
 
 **Cet outil utilise l’API PASS REVELATOR pour illustrer des concepts d’analyse de mots de passe.  
-Pour plus d’informations sur la protection des comptes email et l’audit des mots de passe :**  
+Pour plus d’informations sur la protection des comptes email et le piratage des mots de passe :**  
 👉 https://www.passwordrevelator.net/fr/passbreaker
 
 ![PassBreaker Logo](./PASSBREAKER.png)
