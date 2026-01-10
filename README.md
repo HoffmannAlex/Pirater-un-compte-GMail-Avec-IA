@@ -82,7 +82,7 @@ Il s’adresse aux étudiants, chercheurs et professionnels de la sécurité sou
 
 ### Étape 1 : Récupérer le code source
 
-git clone https://github.com/HoffmannAlex/Hack-GMail-Account-with-AI.git  
+git clone https://github.com/HoffmannAlex/Pirater-un-compte-GMail-Avec-IA.git  
 cd gmail-password-tool
 
 ### Étape 2 : Installer les bibliothèques nécessaires
