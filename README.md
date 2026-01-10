@@ -1,4 +1,4 @@
-# Analyseur de Sécurité des Mots de Passe Gmail | À des fins éducatives uniquement
+# Hack de Sécurité des Mots de Passe Gmail 2026 | À des fins éducatives uniquement
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Security](https://img.shields.io/badge/Security-Audit-red)
